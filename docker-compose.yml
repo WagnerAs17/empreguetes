@@ -1,0 +1,7 @@
+
+services:
+  customer:
+    .
+    ports:
+      - 80:80
+    
